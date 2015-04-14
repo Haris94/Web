@@ -1,0 +1,21 @@
+body{
+	background-color:#EAB587;
+}
+h1{
+	color: black;
+
+}
+input[type=text]{
+	background-color: #F6E5C2;
+}
+
+h3{
+	color: #37278F;
+
+}
+input[type=submit]{
+	background-color: #DFAE3A;
+}
+
+
+
